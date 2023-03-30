@@ -1,0 +1,4 @@
+name = "gpt"
+main = "src/index.ts"
+compatibility_date = "2023-03-30"
+route = { pattern = "gpt.attituding.xyz", custom_domain = true }
